@@ -10,4 +10,5 @@ and must be less than 50 bytes (not including the required new line).
 
 ## Useful Packages
 
-[board-discovery](https://github.com/arduino/board-discovery)
+ * [board-discovery](https://github.com/arduino/board-discovery)
+ * [board-discovery](https://github.com/coreyog/board-discovery) (personal fork: can choose to check serial, network, or both)
